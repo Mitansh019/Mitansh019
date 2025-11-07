@@ -1,7 +1,7 @@
+
+<img width="1584" height="396" alt="Black and Yellow Web Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/e768bc51-16ef-4f40-899a-95513c447408" />
 <h1 align="center">Hi 👋, I'm Mandeep Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt="coding" width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/1aaeb39f-0f29-4098-ad3e-fbe3dcecfac6" />
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitansh019&label=Profile%20views&color=0e75b6&style=flat" alt="mitansh019" /> </p>
 
