@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML , CSS , JavaScript , Python**
 
-- 📫 How to reach me **mandeepsinghbansal786@gmail.com**
+- 📫 How to reach me **https://mitansh019.github.io/web.github.io/**
 
 - ⚡ Fun fact **I am Focusing**
 
